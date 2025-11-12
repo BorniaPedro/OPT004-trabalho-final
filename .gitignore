@@ -1,3 +1,6 @@
 # Ignora todos os arquivos de dados por extensão
 *.csv
 *.parquet
+
+# exceção para o dataset final
+!Crimes_2019_to_2024_Final.parquet
